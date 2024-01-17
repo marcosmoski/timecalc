@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "commonjs", 
+    "esModuleInterop": true,                           
+    "forceConsistentCasingInFileNames": true,          
+    "rootDir": "src",
+    /* Type Checking */
+    "strict": true,
+    "noImplicitAny": true,                           
+    "strictNullChecks": true,                         
+    "skipLibCheck": true                                
+  }
+}
